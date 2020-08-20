@@ -18,6 +18,9 @@ function About() {
                     </div>
                 </div>
             </div>
+            {/* <div className="button">
+                
+            </div> */}
         </section>
     )
 }

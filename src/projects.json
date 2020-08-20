@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Clicky Game",
+        "working_app": "https://jdavis3333.github.io/clicky_game/",
+        "github_repo": "https://github.com/jdavis3333/clicky_game/",
+        "image": "https://gentle-bayou-48835.herokuapp.com/images/clicky_game.PNG"
+    },
+    {
+        "id": 2,
+        "name": "Employee Summary",
+        "working_app": "https://jdavis3333.github.io/employee-summary/",
+        "github_repo": "https://jdavis3333.github.io/employee-summary/",
+        "image": "https://jdavis3333.github.io/employee-summary/"
+    },
+    {
+        "id": 3,
+        "name": "hangryFixed",
+        "working_app": "https://idelmundo.github.io/hangryfixed/",
+        "github_repo": "https://github.com/jdavis3333/hangryfixed",
+        "image": "https://gentle-bayou-48835.herokuapp.com/images/hf.PNG"
+    },
+    {
+        "id": 4,
+        "name": "Note Taker",
+        "working_app": "https://agile-beyond-42839.herokuapp.com/",
+        "github_repo": "https://github.com/jdavis3333/note-taker",
+        "image": "https://gentle-bayou-48835.herokuapp.com/images/note_taker.PNG" 
+    },
+    {
+        "id": 5,
+        "name": "Project X",
+        "working_app": "https://fast-meadow-38464.herokuapp.com/",
+        "github_repo": "https://github.com/jdavis3333/ProjectX",
+        "image": "https://gentle-bayou-48835.herokuapp.com/images/projectX.PNG"       
+    },
+    {
+        "id": 6,
+        "name": "Weather Dashboard",
+        "working_app": "https://jdavis3333.github.io/weather-dashboard/",
+        "github_repo": "https://github.com/jdavis3333/weather-dashboard",
+        "image": "https://gentle-bayou-48835.herokuapp.com/images/weatherDB.PNG"
+    }
+]

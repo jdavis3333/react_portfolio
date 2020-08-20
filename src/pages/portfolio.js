@@ -1,6 +1,6 @@
 import React from "react";
-import projects from "./projects.json";
-import Card from "../../components/cards";
+import projects from "../projects.json";
+import Card from "../components/cards";
 
 class Projects extends React.Component {
     state = {
