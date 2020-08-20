@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.d5331800.chunk.css",
+    "main.js": "/react_portfolio/static/js/main.ee4c38da.chunk.js",
+    "main.js.map": "/react_portfolio/static/js/main.ee4c38da.chunk.js.map",
+    "runtime-main.js": "/react_portfolio/static/js/runtime-main.3235d0ce.js",
+    "runtime-main.js.map": "/react_portfolio/static/js/runtime-main.3235d0ce.js.map",
+    "static/js/2.f6e464ce.chunk.js": "/react_portfolio/static/js/2.f6e464ce.chunk.js",
+    "static/js/2.f6e464ce.chunk.js.map": "/react_portfolio/static/js/2.f6e464ce.chunk.js.map",
+    "index.html": "/react_portfolio/index.html",
+    "precache-manifest.f1ff5961ee8dd2f066352b7f31ba77a0.js": "/react_portfolio/precache-manifest.f1ff5961ee8dd2f066352b7f31ba77a0.js",
+    "service-worker.js": "/react_portfolio/service-worker.js",
+    "static/css/main.d5331800.chunk.css.map": "/react_portfolio/static/css/main.d5331800.chunk.css.map",
+    "static/js/2.f6e464ce.chunk.js.LICENSE.txt": "/react_portfolio/static/js/2.f6e464ce.chunk.js.LICENSE.txt",
+    "static/media/Joe_Davis_resume_2020.c.pdf": "/react_portfolio/static/media/Joe_Davis_resume_2020.c.28163ed9.pdf",
+    "static/media/headshot.PNG": "/react_portfolio/static/media/headshot.556fdebc.PNG",
+    "static/media/lv.jpg": "/react_portfolio/static/media/lv.4c1cdaf3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3235d0ce.js",
+    "static/js/2.f6e464ce.chunk.js",
+    "static/css/main.d5331800.chunk.css",
+    "static/js/main.ee4c38da.chunk.js"
+  ]
+}
