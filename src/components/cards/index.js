@@ -12,11 +12,10 @@ function Card(props) {
                     <li>
                         <strong>Project Name:</strong> {props.name}
                     </li>
-                    <li>
-                        <strong>Working App:</strong> {props.working_app}
-                    </li>
-                    <li>
-                        <strong>Github:</strong> {props.github_repo}
+                    <li href={props.working_app} className="btn btn-info target=_blank"><strong>Working App</strong>    
+                    </li> 
+                    <br/>
+                    <li href={props.github_repo} className="btn btn-info target=_blank"><strong>Github</strong>
                     </li>
                 </ul>
             </div>
