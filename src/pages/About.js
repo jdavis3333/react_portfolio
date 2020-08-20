@@ -26,12 +26,6 @@ function About() {
                     </a><br /><br />
                     <a href={pdf} target="_blank" className="btn btn-info target=_blank"><strong>Resume</strong>
                     </a><br /><br />
-                    {/* <li href={props.github_repo} className="btn btn-info target=_blank"><strong>Resume</strong>
-                </li>
-                <li href={props.github_repo} className="btn btn-info target=_blank"><strong>Email</strong>
-                </li>
-                <li href={props.github_repo} className="btn btn-info target=_blank"><strong>Phone Number</strong>
-                </li> */}
                 </div>
             </div>
         </section>

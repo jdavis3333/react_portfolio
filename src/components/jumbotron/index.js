@@ -11,11 +11,3 @@ function Jumbotron () {
 }
 
 export default Jumbotron;
-
-{/* function Jumbotron () {
-    return (
-        <div className="jumbotron">
-             <img src={Vegas} id="jumbotron" class="img img-fluid" alt="Las Vegas">
-        </div>
-    )
-} */}

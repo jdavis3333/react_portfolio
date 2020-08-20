@@ -5,7 +5,7 @@ import {Link } from "react-router-dom"
 
 function MyNavbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg bg-light">
       <Link className="navbar-brand" to="/">
         Joe Davis
       </Link>

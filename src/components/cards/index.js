@@ -7,17 +7,15 @@ function Card(props) {
             <div className="img-container">
                 <img alt={props.name} src={props.image} />
             </div>
-            <div className="content">
-                <ul>
-                    <li>
-                        <strong>Project Name:</strong> {props.name}
-                    </li>
-                    <li href={props.working_app} className="btn btn-info target=_blank"><strong>Working App</strong>    
-                    </li> 
-                    <br/>
-                    <li href={props.github_repo} className="btn btn-info target=_blank"><strong>Github</strong>
-                    </li>
-                </ul>
+            <div className="content text-center">
+                <p>
+                    <strong>Project Name:</strong> {props.name}
+                </p>
+                <a href={props.working_app} className="btn btn-info" target="_blank"><strong>Working App</strong>
+                </a>
+                <br/><br/>
+                <a href={props.github_repo} className="btn btn-info" target="_blank"><strong>Github</strong>
+                </a>
             </div>
         </div>
     )

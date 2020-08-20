@@ -7,24 +7,24 @@ class Projects extends React.Component {
     state = {
         projects
     }
-    render () {
+    render() {
         var projects = this.state.projects
         return (
-        <div>
-            <Wrapper>
-            {projects.map((hw, key) => (
-                    <Card
-                    name={hw.name}
-                    working_app={hw.working_app}
-                    github_repo={hw.github_repo}
-                    image={hw.image}
-                     />
-                )
-            )}
-            </Wrapper>    
-        </div>)
+            <div>
+                <Wrapper>
+                    {projects.map((hw, key) => (
+                        <Card
+                            name={hw.name}
+                            working_app={hw.working_app}
+                            github_repo={hw.github_repo}
+                            image={hw.image}
+                        />
+                    )
+                    )}
+                </Wrapper>
+            </div>)
     }
-    
+
 }
 
 export default Projects;
